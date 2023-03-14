@@ -1,0 +1,9 @@
+@article{REPO-323,
+    author = "Zhou, Bo and Chen, Xiongchao and Xie, Huidong and Zhou, S. Kevin and Duncan, James S. and Liu, Chi",
+    journal = "IEEE Transactions on Medical Imaging",
+    number = "12",
+    pages = "3587-3599",
+    title = "{DuDoUFNet: Dual-Domain Under-to-Fully-Complete Progressive Restoration Network for Simultaneous Metal Artifact Reduction and Low-Dose CT Reconstruction}",
+    volume = "41",
+    year = "2022"
+}
