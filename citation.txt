@@ -1,4 +1,4 @@
-@article{REPO-323,
+@article{REPO-322,
     author = "Zhou, Bo and Chen, Xiongchao and Xie, Huidong and Zhou, S. Kevin and Duncan, James S. and Liu, Chi",
     journal = "IEEE Transactions on Medical Imaging",
     number = "12",
